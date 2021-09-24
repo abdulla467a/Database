@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Database</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="headline">Data insertation using sqlite </string>
+</resources>
